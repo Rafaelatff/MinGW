@@ -1,6 +1,8 @@
 # MinGW
 GCC - MinGW (Minimalist GNU for Windows)
 
+Download: [CTOOLS](https://1drv.ms/u/s!ArNqTPJsXPC9hKkCvEeGrXbhuosA_g?e=GUvrtf)
+
 ## Installing GCC on windows
 
 To use GCC on operation system on Windows, we actually use a minimalist GNU (the MinGW). After Downloading the CTOOS, extract it on C:.
